@@ -1,0 +1,57 @@
+.loginbox{
+  margin: 0 auto;
+  width: 35%;
+  height: 60vh;
+  background: #87858564;
+  border-radius: 10px;
+  overflow: hidden;
+  
+  flex: 5 1 100%;
+  align-items: stretch;
+  justify-content: space-between;
+  box-shadow: 0 0 20px 6px #58585a80;
+  opacity: 5;
+  margin-top: 150px;
+  
+}
+.title
+{
+font-weight: 900;
+margin-left: 0%;
+font-size: 35px;
+margin-top: 3%;
+}
+input[type=password], select {
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding-left: -15px;
+}
+input[type=email], select {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing:content-box;
+  padding-left: -15px;
+}
+input[type=submit] {
+  width: 60%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}

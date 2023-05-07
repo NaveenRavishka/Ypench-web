@@ -1,0 +1,36 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+
+.admin
+{
+    padding: 0 100px;
+    background-image: linear-gradient(rgba(30, 243, 136, 0.233),rgba(255, 255, 255, 0.137));
+    justify-content: center;
+    width:100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.admin h1
+{
+    margin:  0 0  20px;
+    padding: 10px;
+    font-size: 48px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #020f16;
+
+}
+
+.admin h2
+{
+  margin: 0;
+  padding: 10px;
+  font-size: 36px;
+  color: rgba(19, 10, 59, 0.966);
+
+}
+
